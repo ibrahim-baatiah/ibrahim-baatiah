@@ -1,33 +1,60 @@
-[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://ibrahim2122.github.io/Portfolio)
-<h1 align="center">Hi 👋, I'm Ibrahim Baatiah</h1>
-<h3 align="center">🚀 Aspiring software engineer with a demonstrated passion for web development. Pursuing a Bachelor of Science degree in computer science at WSB University in Poland. 🏢 Possesses strong academic foundations and a proven ability to translate theoretical knowledge into practical software solutions. 🛠️ Proficient in JavaScript, Python, and Java. Experienced in web development frameworks like React. 🌐 Eager to collaborate with seasoned developers and contribute to meaningful projects in the tech industry. Seeking opportunities to learn and grow alongside talented individuals.</h3>
+<h1 align="center">Ibrahim Baatiah</h1>
+<h3 align="center">Cloud & Infra Management Engineer · Azure Certified (AZ-104) · Poland</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim2122&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim2122" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ibrahim2122a" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim2122a?logo=twitter&style=for-the-badge" alt="ibrahim2122a" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👨‍💻 All of my projects are available at [https://ibrahim2122.github.io/Portfolio/](https://ibrahim2122.github.io/Portfolio/)
-
-- 📫 How to reach me **Ibrahim_Omar212@outlook.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ibrahim2122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim2122a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahim baatiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim baatiah" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahim_2122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_2122" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ibrahimdev.cloud/"><img src="https://img.shields.io/badge/Portfolio-ibrahimdev.cloud-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-baatiah-2183b21a0/"><img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Baatiah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ibrahimbaatiah@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimbaatiah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim2122&show_icons=true&locale=en&layout=compact" alt="ibrahim2122" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim2122&show_icons=true&locale=en" alt="ibrahim2122" /></p>
+I'm a Cloud & Infra Management Engineer at **LTM**. Outside of work, this is where I build things end to end: provisioning cloud infrastructure with **Terraform**, configuring it with **Ansible** and **PowerShell**, shipping apps in **Docker**, and writing the software that runs on top.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim2122&" alt="ibrahim2122" /></p>
+Some of what you'll find here:
+
+- ☁️ **Cloud deployments** on AWS and Azure — multi-tier apps, hub-spoke networks, load balancing, monitoring and security detections
+- ⚙️ **Infrastructure automation** — reusable Terraform modules, Ansible playbooks and scripted Windows/AD tooling
+- 🧩 **Full-stack apps** built with FastAPI and Next.js
+- 🔧 **Low-level projects** to understand how things work under the hood, like a Unix shell in C and an HTTP server in Java
+
+📚 Currently studying for **AWS Certified Solutions Architect – Associate**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,ansible,docker,kubernetes,linux,bash,powershell,windows,git&perline=11" alt="Cloud & DevOps"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,fastapi,react,nextjs,postgres,mysql,mongodb,redis&perline=11" alt="Languages, Frameworks & Databases"/>
+</p>
+
+| Area | Technologies |
+|---|---|
+| **Cloud** | Azure, AWS |
+| **IaC & Config** | Terraform (modules, remote state, secrets handling), Ansible |
+| **Containers** | Docker (multi-stage builds, Compose, image optimization), Kubernetes |
+| **Networking** | TCP/IP, subnetting, DNS, VNets/VPCs, peering, hub-spoke, UDRs & NVA routing, load balancers, TLS |
+| **Linux** | Troubleshooting, boot process/GRUB, SSH, Bash |
+| **Windows Server** | Active Directory (FSMO, replication, Kerberos), DFSR/SYSVOL, Group Policy, PowerShell |
+| **Languages** | Python, Java, C, JavaScript |
+| **Frameworks** | FastAPI, React, Next.js |
+| **Databases** | PostgreSQL, MySQL, Azure SQL, Amazon RDS, MongoDB, Redis |
+
+---
+
+## 📜 Certifications
+
+[![AZ-104](https://img.shields.io/badge/Azure_Administrator-AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/ibrahimomar212/credentials/6869d44a369a17bd)
+[![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_Developer's_Guide-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://certificates.platform.qa.com/9d39d8c6c122e5de606a0bae0f3619fcf06370e7.pdf)
+[![Docker](https://img.shields.io/badge/Docker-Foundations_Professional-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.linkedin.com/learning/certificates/6ca4ac69dbb8f3a7af9903882f0d8de83b3c3cbc55f1f35805ade1f0b057cc2c)
+[![Linux](https://img.shields.io/badge/Linux-Specialist-FCC624?style=flat-square&logo=linux&logoColor=black)](https://certificates.platform.qa.com/c1d00bfe382b3bb2720ba82d5ca226bba7f3769f.pdf)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
+<p align="center"><i>📌 Check out my pinned repositories below.</i></p>
